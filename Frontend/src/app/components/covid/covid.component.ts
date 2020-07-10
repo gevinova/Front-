@@ -16,7 +16,7 @@ export class CovidComponent implements OnInit {
 
   loading
 
-  private URL = 'http://localhost:3000/api/';
+  private URL = 'https://my-app-jjudj.mybluemix.net/';
 
   txt
   textModelo
